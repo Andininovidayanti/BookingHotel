@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Hotel">
+        <item>Kamar Jasmin (VVIP)</item>
+        <item>Kamar mawar (VVIP)</item>
+        <item>Kamar kamboja (VIP)</item>
+        <item>Kamar matahari (VIP)</item>
+        <item>Kamar melati (reguler)</item>
+    </string-array>
+</resources>
